@@ -60,6 +60,27 @@ query {
 }
 ```
 
+Query example to request a list of favorite places with news:
+```graphql
+query{
+  places{
+    description
+    city
+    country{
+      name
+      alpha2code
+    }
+    news{
+      author
+      source
+      title
+      description
+      publishedAt
+    }
+  }
+}
+```
+
 Query example to request a list of favorite places with countries information: 
 ```graphql
 query {

@@ -1,0 +1,19 @@
+{
+  "status": "ok",
+  "totalResults": 1,
+  "articles": [
+    {
+      "source": {
+        "id": "b92",
+        "name": "B92"
+      },
+      "author": "https://www.b92.net/english",
+      "title": "Belgrade to Host International Environmental Summit",
+      "description": "Serbia's capital is set to host an international summit on environmental protection and sustainable development next month.",
+      "url": "https://www.b92.net/environment/belgrade-international-environmental-summit",
+      "urlToImage": "https://www.b92.net/images/belgrade-environmental-summit.jpg",
+      "publishedAt": "2024-04-15T09:00:00Z",
+      "content": "Belgrade, the capital of Serbia, is gearing up to welcome delegates from around the world for an international summit on environmental protection. The summit aims to foster global cooperation in tackling climate change and promoting sustainable development practices.\u2026 [+570 chars]"
+    }
+  ]
+}

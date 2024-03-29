@@ -1,0 +1,19 @@
+{
+  "status": "ok",
+  "totalResults": 1,
+  "articles": [
+    {
+      "source": {
+        "id": "rt",
+        "name": "RT"
+      },
+      "author": "https://www.rt.com/about-us",
+      "title": "Russia's Space Agency Announces New Mars Mission",
+      "description": "Roscosmos reveals plans for a groundbreaking mission to Mars, aimed at exploring the planet's surface and atmosphere.",
+      "url": "https://www.rt.com/science/space-agency-new-mars-mission",
+      "urlToImage": "https://www.rt.com/images/mars-mission-2024.jpg",
+      "publishedAt": "2024-04-01T12:00:00Z",
+      "content": "Russia's space agency, Roscosmos, has officially announced its upcoming mission to Mars, scheduled for launch in 2026. This ambitious project aims to conduct in-depth studies of the Martian surface and atmosphere, contributing significantly to our understanding of the Red Planet.\u2026 [+630 chars]"
+    }
+  ]
+}
