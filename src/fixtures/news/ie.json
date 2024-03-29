@@ -1,0 +1,19 @@
+{
+  "status": "ok",
+  "totalResults": 1,
+  "articles": [
+    {
+      "source": {
+        "id": "the-irish-times",
+        "name": "The Irish Times"
+      },
+      "author": "https://www.irishtimes.com/profile/future-ireland",
+      "title": "Dublin Unveils Plan for Carbon Neutrality by 2035",
+      "description": "Dublin's city council announces ambitious plans to achieve carbon neutrality, focusing on renewable energy sources and sustainable public transport.",
+      "url": "https://www.irishtimes.com/environment/dublin-carbon-neutrality-2035",
+      "urlToImage": "https://www.irishtimes.com/images/dublin-carbon-neutral-2035.jpg",
+      "publishedAt": "2024-03-29T07:00:00Z",
+      "content": "In a major announcement today, Dublin's city council has laid out a comprehensive plan aimed at making the city carbon neutral by 2035. This ambitious initiative will primarily focus on enhancing renewable energy infrastructure and revamping the public transportation system to be more sustainable.\u2026 [+620 chars]"
+    }
+  ]
+}
